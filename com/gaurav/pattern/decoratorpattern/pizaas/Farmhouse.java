@@ -1,4 +1,4 @@
-package com.gaurav.pattern.decorator.pizaas;
+package com.gaurav.pattern.decoratorpattern.pizaas;
 
 public class Farmhouse extends BasePizza {
 

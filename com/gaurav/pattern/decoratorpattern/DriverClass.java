@@ -1,10 +1,10 @@
-package com.gaurav.pattern.decorator;
+package com.gaurav.pattern.decoratorpattern;
 
-import com.gaurav.pattern.decorator.pizaas.BasePizza;
-import com.gaurav.pattern.decorator.pizaas.Farmhouse;
-import com.gaurav.pattern.decorator.pizaas.Margrita;
-import com.gaurav.pattern.decorator.toppings.Cheeseburst;
-import com.gaurav.pattern.decorator.toppings.Paneer;
+import com.gaurav.pattern.decoratorpattern.pizaas.BasePizza;
+import com.gaurav.pattern.decoratorpattern.pizaas.Farmhouse;
+import com.gaurav.pattern.decoratorpattern.pizaas.Margrita;
+import com.gaurav.pattern.decoratorpattern.toppings.Cheeseburst;
+import com.gaurav.pattern.decoratorpattern.toppings.Paneer;
 
 public class DriverClass {
 

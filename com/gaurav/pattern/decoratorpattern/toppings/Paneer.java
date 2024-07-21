@@ -1,6 +1,6 @@
-package com.gaurav.pattern.decorator.toppings;
+package com.gaurav.pattern.decoratorpattern.toppings;
 
-import com.gaurav.pattern.decorator.pizaas.BasePizza;
+import com.gaurav.pattern.decoratorpattern.pizaas.BasePizza;
 
 public class Paneer extends Topping{
 
